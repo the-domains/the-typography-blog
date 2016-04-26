@@ -2,12 +2,13 @@ name: The typography blog
 favicon: null
 layout_spectrum: 0.22496852627955377
 typography_spectrum: 0.12547230860218406
+title: The Typography Blog
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-49448083-1
   facebook: null
   twitter: null
 opengraph:
